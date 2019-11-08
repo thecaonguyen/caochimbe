@@ -1,0 +1,15 @@
+.ten_giay .tensp p {
+	font-size: 14px;
+    color: gray;
+    padding-right: 10px;
+    margin: 0;
+}
+
+.tensp {
+	align-items: center;
+	height: 40px;
+}
+
+.zoom_anh01 #b{
+	width: 560px;
+}
